@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5DAF7617-3EDD-44DD-A4C9-C7760C48F4A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/CardServices.cs">
+    <Files>
+      <File FileName="Services/CardServices.cs" Line="20" Column="13" />
+      <File FileName="Data/ICards.cs" Line="8" Column="1" />
+      <File FileName="Controllers/CardsControllers.cs" Line="13" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Oasis.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
